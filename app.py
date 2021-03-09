@@ -22,7 +22,7 @@ app.add_middleware(
 
 #KEY = os.getenv('DETA_PROJECT_KEY')
 
-deta =Deta('b0dhigbe_TkBCtpTZ8cUfV6aJuHh3HmVjivH26bjh')
+deta = Deta('b0dhigbe_TkBCtpTZ8cUfV6aJuHh3HmVjivH26bjh')
 db = deta.Base('ot')
 
 
